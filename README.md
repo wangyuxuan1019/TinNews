@@ -1,5 +1,6 @@
 # TinNews
 Tinder-like News Mobile App  
+  
 •	Designed the Instagram Flavor News app based on Google Component Architectural MVVM Pattern  
 •	Implemented the bottom bar & page navigation using JetPack navigation component   
 •	Utilized 3rd party CardStackView(RecyclerView) to support swipe gestures for liking/disliking the news  
